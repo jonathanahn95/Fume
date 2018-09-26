@@ -34,6 +34,9 @@ Can handle incoming requests and direct them to the proper controller and action
 ```
 
 ## Running the app
-* 
+* `git clone https://github.com/jonathanahn95/Fume.git`
+* `cd fume`
+* `bundle install`
+* Visit `localhost:3000`
 
 
