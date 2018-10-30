@@ -1,6 +1,6 @@
 # Fume
 Fume is a ORM (Object Relational Management) and MVC (Model View Controller) framework written in Ruby. 
-ControllerBase provides a base controller class, and Router provides basic routing capablitlties with that renders corresponding views.
+ControllerBase provides a base controller class, and Router provides basic routing capabilities with that renders corresponding views.
 
 ## ControllerBase
 Custom classes that extend `ControllerBase` can use the following methods:
